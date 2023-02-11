@@ -1,15 +1,15 @@
-# Hackintosh-Dell-g3-15-3590<br>
+# Hackintosh Dell G3-3590 15<br>
 
 ## Laptop Specifications
 
-Model     | Dell g3 15 3590 9<sup>th</sup> gen
+Model     | Dell G3 15 3590 9<sup>th</sup> gen
 ---       | ---
 Processor | Intel®️ Core™️ i7 -9750H (12MB Cache, up to 4.5 GHz, 6 cores 9<sup>h</sup> generation 
 iGPU      | Intel UHD 630
 dGPU      | NVIDIA(R) GeForce(R) GTX 1660 Ti with Max-Q Design, 6GB GDDR 6
 Resolution| 15.6 inch FHD (1920 x 1080) 30 0 nits IPS Anti-Glare LED Back lit Display with 144Hz refresh rate
 RAM       | 16GB, 2x8GB, DDR4 (2666MHz) 
-Storage   | 256GB M.2 PCIe NVMe Solid State Drive (Boot) + 1TB 5400 rpm 2.5" SATA Hard Drive (Storage)
+Storage   | 256GB M.2 PCIe NVMe Solid State Drive (Boot) + 500GB 2.5" SATA SSD (Storage)
 Audio     | Realtek ALC295
 WIFI      | Intel AC9560 
 Touchpad  | I2C1 HID TPD0
@@ -20,7 +20,7 @@ Bios      | 1.9.0 `Recommended`
 
 ## System configuration
 
-Model | `MacBookPro16,4` | OS | `Monterey 12.5` | OC | `0.8.8`
+Model | `MacBookPro16,4` | OS | `Monterey 12.6.3` | OC | `0.8.8`
 ---|---|---|---|---|---
 
 ![](Images/about.png)
